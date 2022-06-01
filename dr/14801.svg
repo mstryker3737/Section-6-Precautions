@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 36.1 36.1" id="a"><defs><style>.b{stroke:#8b1e41;stroke-miterlimit:10;stroke-width:2px;}.b,.c{fill:none;}</style></defs><rect data-cppathid="10000" height="36.1" width="36.1" class="c"/><path data-cppathid="10001" d="M18,1.05C8.68,1.05,1.05,8.68,1.05,18s7.63,16.95,16.95,16.95,16.95-7.63,16.95-16.95S27.32,1.05,18,1.05ZM6.23,5.84L29.94,29.56" class="b"/></svg>
